@@ -1,3 +1,18 @@
 # mynotes
-- remote_theme: pages-themes/hacker@v0.2.0
 - [COMP1238 Notes](comp1238.md)
+# Monday 
+- 9:00 COMP1151
+- 1:00 COMP1238
+- 4:00 COMP1236
+# Tuesday
+- 10:00 COMP1162
+- 6:00 COMP1234
+# Wednesday 
+- 3:00 COMM2000
+# Thursday
+- 10:00 COMP1238
+- 12:00 COMP1162
+- 2:00 COMP1236
+# Friday
+- 2:00 COMP1151
+- 4:00 COMP1234
